@@ -7,5 +7,4 @@ baseurl: ""
 url: "http://matzhaugen.github.io/ai"
 
 # Build settings
-markdown: redcarpet
 permalink: pretty
