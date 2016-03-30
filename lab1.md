@@ -11,7 +11,7 @@ The goal of this lab is first of all to get familiar with the python and ipython
 - Python functions
 - Python classes with methods.
 - Modular programming.
-- How to solve a sudoku puzzle.
+- How to solve a sudoku puzzle (end of Lab 2 or Lab 3 instead).
 
 # Introduction
 1. Get Ipython up and running
